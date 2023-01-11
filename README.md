@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="left" height="400" src="https://cdn3.emoji.gg/emojis/9757-pepeflip.gif"/>
 
-<!--
-**flaunts/flaunts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```asm
+ Hello, I'm @flaunts. 👋
+```
+**About Me**:
+```asm
+Discord: CIA#0001
+```
+```py
+class Flaunts:
+    def __init__(self):
+        self.name = "Flaunts"  
+        self.age = 16
+        self.location = "United States"
+        self.experience = "Coding Since December 2020"
+```
+**Skills**:
+```py
+Python , GoLang , HTML/CSS
+```
