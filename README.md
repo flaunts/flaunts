@@ -1,4 +1,6 @@
-<img align="left" height="400" src="https://cdn3.emoji.gg/emojis/9757-pepeflip.gif"/>
+<img align="left" height="400" src="https://cdn3.emoji.gg/emojis/1105-weed.png"/>
+
+
 
 ```asm
  Hello, I'm @flaunts. 👋
